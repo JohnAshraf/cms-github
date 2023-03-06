@@ -10,3 +10,11 @@ git commit -m "NNNNN"
 git log --oneline
 git diff 
 git clone 
+====================================
+…or create a new repository on the command line
+echo "# CMS_Q3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NohaEltohamy/CMS_Q3.git
