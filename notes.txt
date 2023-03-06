@@ -1,0 +1,12 @@
+git config --local user.name "Noha Salah"
+git config --local user.email "nohasalah@example.com"
+
+--global 
+--local 
+--system
+=====================================
+git add . 
+git commit -m "NNNNN"
+git log --oneline
+git diff 
+git clone 
